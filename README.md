@@ -1,4 +1,4 @@
-# Airbnb-Predicting-Rental-Prices-of-Properties-in-Sydney
+# Airbnb-Sydney-Rental-Prices-Prediction
 This statistical project aims to provide some fundamental insights of Airbnb listing dataset. I want to discover what are the factors that affect the rental prices of properties in Sydney. 
 
 * The project mainly focus on data preprocessing and exploratory data analysis as these parts cover almost 80% of the work from 
